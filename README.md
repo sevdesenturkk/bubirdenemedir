@@ -4,4 +4,4 @@ Bu bir markdown denemesidir.
 ## ÇARŞAMBA GÜNÜM ##
 ### 30/10/24 ###
 _Bugünüm Nasıl Geçiyor_
-Bugün, günlerden çarşamba ve günüm güzel geçiymr. Hava güneşli.
+Bugün, günlerden çarşamba ve günüm güzel geçiymr. Hava güneşli. Hava güzel.
